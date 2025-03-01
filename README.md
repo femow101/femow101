@@ -2,17 +2,11 @@
 
 - 🔭 Software Engineer
 
-## LeetCode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/femow?theme=dark&font=Ubuntu&ext=activity)
-  
  ## Tools
   
 <ul style="display: inline_block">
-  <li> Java </li>
   <li> Spring Boot </li>
   <li> React </li>
-  <li> JavaScript (ES6)  </li>
 </ul>
 
 ## GitHub
@@ -21,6 +15,10 @@
   <a href="https://beacons.ai/femow">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=femow&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
+## LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/femow?theme=dark&font=Ubuntu&ext=activity)
   
 ## Socials
   
