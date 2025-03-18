@@ -9,17 +9,6 @@
   <li> React </li>
 </ul>
 
-## GitHub
-
-<div>
-  <a href="https://beacons.ai/femow">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=femow&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-## LeetCode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/femow?theme=dark&font=Ubuntu&ext=activity)
-  
 ## Socials
   
 <div>
